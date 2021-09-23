@@ -6,6 +6,7 @@
 ## Quickstart
 - [Go By Example](https://gobyexample.com/hello-world)
 - [A tour of Go](https://tour.golang.org/welcome/1)
+- [Comprehensive tutorial from fundamental to advanced](https://tutorialedge.net/golang/getting-started-with-go/)
 
 ## Local Installation of Go 
 - [Installation Page](https://golang.org/doc/install)
